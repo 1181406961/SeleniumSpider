@@ -1,0 +1,306 @@
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥1,440", "address": "会展中心近地铁口14人轰趴派对整租豪宅 (Home Party Hostel near HK)", "detail": "整套房子/公寓·7床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
+{"price": "￥669", "address": "Emerald apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥601", "address": "April at Paris (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥184", "address": "【Arch Home】空间戏法A——福民地铁口、福田市中心、福田口岸、皇岗口岸", "detail": "独立房间·1床"}
+{"price": "￥102", "address": "#4边渡设计青旅,25秒至CBD地铁站,落地窗可观赏深南大道夜景", "detail": "合住房间·15床"}
+{"price": "￥314", "address": "【十二微邸】32Q-KKmall楼上的天空微城堡", "detail": "整套房子/公寓·1床"}
+{"price": "￥403", "address": "#一间·寒舍Room 2#福田CBD下沙地铁口极简风,景观房,交通便利,私人房间,拍摄请另咨询", "detail": "独立房间·1床"}
+{"price": "￥546", "address": "立夏曦公寓 会展中心 福田高铁站 皇岗商圈Cocopark 福田口岸 步行3分钟可至地铁口双地铁", "detail": "整套房子/公寓·3床"}
+{"price": "￥136", "address": "深圳北站附近大型花园小区单间落地窗温馨整洁,广交好友", "detail": "独立房间·1床"}
+{"price": "￥75", "address": "深圳晓月青旅-观景4人间   在罗湖火车站万象城国贸老街东门CBD位置", "detail": "独立房间·4床"}
+{"price": "￥239", "address": "香蜜湖复式小筑(双地铁)", "detail": "整套房子/公寓·1床"}
+{"price": "￥703", "address": "Lasurite apartment", "detail": "整套房子/公寓·3床"}
+{"price": "￥682", "address": "April@New York (One Bedroom)", "detail": "整套房子/公寓·2床"}
+{"price": "￥485", "address": "海上世界民宿", "detail": "整套房子/公寓·3床"}
+{"price": "￥191", "address": "Loire花房公寓", "detail": "独立房间·1床"}
+{"price": "￥648", "address": "#BananaHouse香蕉宿#南山西丽地铁口深职院旁毗邻深圳北站大学城,靠近科技园海岸城深圳湾口岸", "detail": "整套房子/公寓·4床"}
+{"price": "￥198", "address": "SmileHouse超讚房東_陽光大床房115米平方~香港口岸5分鐘、石厦站2分鐘,如朋友热情招待", "detail": "独立房间·1床"}
+{"price": "￥505", "address": "Bon Infinity北欧之屋 会展中心 福田高铁 CoCo Park 香港口岸仅需一个地铁站$$", "detail": "整套房子/公寓·2床"}
+{"price": "￥198", "address": "深圳福田中心区 双地铁  近华强北商圈 新装暖心房 Room B 双人房配一张双人床加一张单人沙发床", "detail": "独立房间·2床"}
